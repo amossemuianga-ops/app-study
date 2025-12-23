@@ -1,0 +1,21 @@
+.header {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.nav-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  background: #f30101;
+  height: 2rem;
+  width: 100%;
+  gap:2rem;
+}
+
+.nav-list li a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
